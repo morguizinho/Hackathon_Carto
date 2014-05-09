@@ -1,0 +1,26 @@
+{
+  "name": "Carto",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/morguizinho/Hackathon_Carto",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morguizinho/Hackathon_Carto.git"
+  },
+  "author": "",
+  "contributors": [],
+  "main": "scripts/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "3.0.0",
+    "csv": ">= 0.2.1",
+    "open": ">= 0.0.2"
+  },
+  "engines": {
+    "node": ">= 0.8.4"
+  },
+  "license": "MIT"
+}
